@@ -1,0 +1,96 @@
+testcase: testcase1
+
+obstacle 0: 
+topPipe: 
+x, 1128, 1128, 1
+y, -305, -305, 1
+width, 104, 104, 1
+height, 540, 540, 1
+bottomPipe: 
+x, 1128, 1128, 1
+y, 635, 635, 1
+width, 104, 104, 1
+height, 540, 540, 1
+isPassedOn, false, false, 1
+topPipeType, 2, 2, 1
+bottomPipeType, 2, 2, 1
+
+obstacle 1: 
+topPipe: 
+x, 1468, 1468, 1
+y, -347, -347, 1
+width, 104, 104, 1
+height, 540, 540, 1
+bottomPipe: 
+x, 1468, 1468, 1
+y, 593, 593, 1
+width, 104, 104, 1
+height, 540, 540, 1
+isPassedOn, false, false, 1
+topPipeType, 2, 2, 1
+bottomPipeType, 2, 2, 1
+
+obstacle 2: 
+topPipe: 
+x, 1808, 1808, 1
+y, -245, -245, 1
+width, 104, 104, 1
+height, 540, 540, 1
+bottomPipe: 
+x, 1808, 1808, 1
+y, 695, 695, 1
+width, 104, 104, 1
+height, 540, 540, 1
+isPassedOn, false, false, 1
+topPipeType, 2, 2, 1
+bottomPipeType, 1, 1, 1
+
+obstacle 3: 
+topPipe: 
+x, 2148, 2148, 1
+y, -355, -355, 1
+width, 104, 104, 1
+height, 540, 540, 1
+bottomPipe: 
+x, 2148, 2148, 1
+y, 585, 585, 1
+width, 104, 104, 1
+height, 540, 540, 1
+isPassedOn, false, false, 1
+topPipeType, 2, 2, 1
+bottomPipeType, 1, 1, 1
+
+backgroundBox: 
+x, -494, -494, 1
+y, 0, 0, 1
+width, 1716, 1716, 1
+height, 1024, 1024, 1
+
+floorBox: 
+x, -1482, -1482, 1
+y, 804, 804, 1
+width, 1848, 1848, 1
+height, 220, 220, 1
+
+flappyBox: 
+x, 308, 308, 1
+y, 488, 488, 1
+width, 68, 68, 1
+height, 48, 48, 1
+
+birdIdx, 2, 2, 1
+record, 7, 7, 1
+point, 0, 0, 1
+objectVelocity, 6, 6, 1
+winningScore, 20, 20, 1
+won, 0, 0, 1
+inGame, false, false, 1
+direction, -1, -1, 1
+intervalFrame, 1, 1, 1
+velocity, 0, 0, 1
+gravity, 1, 1, 1
+
+
+cummulative total score: 67
+final score: 67/67
+final score(out of 100): 100
